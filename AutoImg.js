@@ -1,3 +1,9 @@
+/* ========================================================
+ * AutoImg V1.0
+ * http://www.cencen.net
+ * ========================================================
+ * Copyright 2013 CenCen, Inc.
+ * ======================================================== */
 //AutoImg(圖片, 要設置圖片寬, 要設置圖片高);  
 //<style>.content{width:200px;height:300px;overflow:hidden;}
 //<div class="content"><img onload="javascript:AutoImg(this,"200","300"); src='images/test.jpg'></div>
